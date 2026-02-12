@@ -20,3 +20,7 @@ spring:
       mode: always
 server:
   port: 8080
+
+app:
+  message:
+    welcome: "Let's manage our assets efficiently!"

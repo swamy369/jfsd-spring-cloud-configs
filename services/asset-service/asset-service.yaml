@@ -2,4 +2,7 @@ spring:
   application:
     name: asset-service
 
-
+info:
+  app:
+    name: asset-service
+    version: 1.2.3
